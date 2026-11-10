@@ -2,7 +2,7 @@
 
 iPhone 사진의 Live Text가 인식한 텍스트에서 상품코드·날짜·지번을 추출해 복사하기 쉽게 정리하는 웹앱입니다.
 
-**[앱 실행하기](https://unnitti.github.io/text_ext2_pwa/)**
+**[앱 실행하기](https://unnitti.github.io/text/)**
 
 ## 사용 방법
 

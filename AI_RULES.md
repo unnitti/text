@@ -6,7 +6,7 @@
 
 이 프로젝트는 다음 저장소의 `AI_RULES.md`를 공통 AI 협업 규칙으로 참고한다.
 
-https://github.com/unnitti/photo_text_pwa/blob/main/AI_RULES.md
+https://github.com/unnitti/photo/blob/main/AI_RULES.md
 
 공통 규칙에 접근할 수 있는 경우 먼저 확인한다.
 
@@ -19,5 +19,5 @@ https://github.com/unnitti/photo_text_pwa/blob/main/AI_RULES.md
 - Live Text 자체의 OCR 정확도를 앱의 기능으로 간주하지 않는다.
 - URL을 통해 전달되는 원문 텍스트가 정상적으로 앱에 도착하는지 확인한다.
 - 추출 규칙을 변경할 때 기존에 정상적으로 추출되던 항목이 사라지지 않는지 확인한다.
-- 상품코드, 제조일자/소비기한, 지번 등 추출 규칙은 `PROJECT_STATUS.md`의 현재 규칙을 기준으로 한다.
+- 상품코드, 제조일자/소비기한, 지번 등 추출 규칙은 코드 내 규칙을 현재 기준으로 한다.
 - 사용자가 직접 보내는 결과의 최종 확인 및 Slack 전송은 자동화하지 않는다.

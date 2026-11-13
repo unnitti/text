@@ -1,4 +1,4 @@
-const CACHE = 'text-cache-v01';
+const CACHE = 'text-cache-v02';
 const CACHE_PREFIX = 'text-cache-';
 
 const ASSETS = [
